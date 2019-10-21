@@ -8460,7 +8460,7 @@ h2.title-3sZWYQ.h2-2gWE-o + .children-rWhLdy div:not([class]) .title-3sZWYQ.h5-1
 }
 
 .bar-30k2ka {
-	background: var(--alert-color);
+	background: gray;
 	border-radius: 0;
 	font-weight: 500;
 	transition: 250ms ease all;
